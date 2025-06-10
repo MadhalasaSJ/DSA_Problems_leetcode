@@ -1,6 +1,5 @@
 # DSA_Problems_leetcode
-
-📚 This repository contains my solutions to selected **LeetCode** problems, primarily focused on **Data Structures and Algorithms** using **Python**. Each solution is well-organized, optimized, and aims to demonstrate common problem-solving patterns.
+### 📚 This repository contains my solutions to selected **LeetCode** problems, primarily focused on **Data Structures and Algorithms** using **Python**. Each solution is well-organized, optimized, and aims to demonstrate common problem-solving patterns. 
 ---
 
 
