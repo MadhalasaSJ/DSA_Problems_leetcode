@@ -1,11 +1,11 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        premap = {}
+        map_index = {}
 
         for i,n in enumerate(nums):
             diff = target - n 
-            if diff in premap:
-                return [premap[diff], i]     
-            premap[n] = i
-        return []          
+            if diff in map_index:
+                return [map_index[diff], i]
+            map_index[n] = i
+        return []                 
         
