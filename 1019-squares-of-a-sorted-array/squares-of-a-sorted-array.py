@@ -7,6 +7,6 @@ class Solution:
         for i in range(len(nums)):
             square = nums[i] * nums[i]
             res.append(square)
-            res.sort()
+        res.sort()
         return res    
         
